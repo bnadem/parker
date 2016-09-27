@@ -32,7 +32,7 @@ export const appRoutes: Routes = [{
   },
   {
     path: '',
-    redirectTo: 'dashboard',
+    redirectTo: '/dashboard',
     pathMatch: 'full'
   }
 ];
