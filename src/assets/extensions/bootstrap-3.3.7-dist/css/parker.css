@@ -1,0 +1,34 @@
+/*
+css file for numeric s.a. grids or widths/heights styling
+*/
+html, body {
+  font-size: .9em;
+  background:url('/assets/images/app.background.png');
+  background-repeat: repeat-x;
+  background-size:100% auto;
+  color:#101420;
+}
+
+.parker-navbar {
+font-weight:bold;
+  font-size:.8em;
+}
+.parker-header{
+min-height:5em;
+}
+
+.parker-sidebar li {
+  line-height: 2.0em;
+}
+#parkerlogo {
+  height:4em;
+  margin:.75em 0 .75em 0;
+}
+.parker-content {
+  background:#E6EAED;
+  width:100%;
+
+}
+.parker-content-headline {
+  font-weight:200;
+}

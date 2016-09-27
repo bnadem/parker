@@ -1,0 +1,24 @@
+/*
+css file for colors, fonts and only visual styling
+*/
+.parker-header {
+  background: #FFB91D; /* Old browsers */
+  background: -moz-linear-gradient(top, #FFB91D 0%, #FFCD40 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, #FFB91D 0%,#FFCD40 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #FFB91D 0%,#FFCD40 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#FFB91D', endColorstr='#FFCD40',GradientType=0 ); /* IE6-9 */
+
+}
+.parker-navbar {
+  background: #101420;
+  color:#fff;
+  text-transform: uppercase;
+  text-decoration: none;
+  padding:.3em 0 .3em 0;
+
+}
+.parker-navbar a, .parker-navbar a:hover {
+  color:#fff;
+  text-decoration: none;
+
+}
